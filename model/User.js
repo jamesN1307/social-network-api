@@ -13,7 +13,7 @@ const UserSchema = new Schema(
             unique: true,
             match: [/^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/, 'Please fill a valid email address']
         },
-        thought:[
+        thoughts:[
         {
             type: Schema.Types.ObjectId,
             ref:"Thought"
