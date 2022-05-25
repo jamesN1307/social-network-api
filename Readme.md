@@ -40,6 +40,9 @@ With Nodemon:
 
 npm run watch
 
+## walkthrough video 
+link --- https://youtu.be/3CIdnTpIUxM
+
 ## Credits
 shouteout to Darren Lee for helping me with this project 
 
